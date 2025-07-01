@@ -12,5 +12,7 @@ Assistant conversationnel permettant d'interroger n'importe quelle base de donnÃ
 ![image](https://github.com/user-attachments/assets/54283972-d1b3-4698-bd12-448f82c90b28)
 
 ![image](https://github.com/user-attachments/assets/db6ad8fa-800b-496e-b8a2-5b95593fbd60)
-![image](https://github.com/user-attachments/assets/a29921d6-70b5-47df-8132-0c92c4ad6b14)
+![image](https://github.com/user-attachments/assets/b8ef5eed-2f0d-4e31-9a60-9b60d974270f)
+![image](https://github.com/user-attachments/assets/bff56ce2-171c-4c18-b6b8-08d011fd4c31)
+
 
